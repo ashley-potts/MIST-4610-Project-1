@@ -86,7 +86,18 @@ A manager would want to know this information to determine if the bulldogs are c
 
 The manager would want to know this information to understand the individual experience of each coach and which teams have coaches with the most experience. This would allow the manager to assign head coaches to competition levels that are appropriate for their experience level. Coaches with more coaching experience should be assigned to higher competition levels, and the opposite could be said for coaches with less experience. 
 
-9. Query 9 
+9. Query 9 shows the first and last name of each individual coach that has no coaching  certification along with the team that they coach for.
+
+<img width="1078" alt="Screenshot 2023-11-06 at 3 51 19 PM" src="https://github.com/ashley-potts/MIST-4610-Project1/assets/148247835/e8497dfb-7dc6-454f-baf9-d6eb52f91937">
+
+The owner of the Bulldog United soccer club would want to know this information to track each coach’s progress towards obtaining their coaching certification. This would be relevant when coaches are up for evaluation and would help in determining what coaches would be qualified to become a head coach of a team for the upcoming season. 
+
+10. Query 10 shows the name of the tournament that had an average amount of payments that was higher than the average total amount of payments from all sponsors.
+
+<img width="1084" alt="Screenshot 2023-11-06 at 3 52 46 PM" src="https://github.com/ashley-potts/MIST-4610-Project1/assets/148247835/7f10ee5c-5428-42f8-a98b-316e4764175b">
+
+A manager would be interested in this information to determine which tournament had the highest amount of money from its sponsors. It would help them see which tournament was the biggest, most profitable event to these sponsors. This particular tournament had a group of teams that brought money in from some of the highest paying sponsors. 
+
 
 ## Database Information : 
 The name of the database is : cs_g10p1
