@@ -43,6 +43,11 @@ Our model is based on a Soccer Club, called UGA United Soccer Club. Our “Teams
 <img width="1002" alt="Screenshot 2023-11-06 at 3 27 26 PM" src="https://github.com/ashley-potts/MIST-4610-Project1/assets/148247835/6a6c0afc-a841-4ff5-a493-f89e7a34f415">
  From a managerial perspective, this query would be important because knowing what players have not been injured in the past and whether or not they are currently injured or not would be significant in understanding the state of the team and help predict how they would fare in a tournament. For a team that has many injured players it would not be wise to send them to participate in a tournament because they wouldn’t be able to perform on a competitive level with many injured players. 
 
+2. Query 2 lists the names of the teams and their respective head coaches that won a tournament:
+<img width="935" alt="Screenshot 2023-11-06 at 3 32 02 PM" src="https://github.com/ashley-potts/MIST-4610-Project1/assets/148247835/3005dc0a-415d-458d-abb7-e2a1417be5c7">
+ The manager would want to know who the head coach is for every team that won the different tournament. This would be important that the manager was aware of which coaches were in charge of the overall winners of the four tournaments. 
+
+
 
 ## Database Information : 
 The name of the database is : cs_g10p1
