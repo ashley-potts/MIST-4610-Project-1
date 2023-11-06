@@ -80,8 +80,13 @@ A manager would want to know this information to determine if the bulldogs are c
 
    This query would be significant to a manager who would want to understand how many maintenance workers are at a particular facility that has turf.
 
+8. Query 8 shows the average number of years of experience coaches have for each team where the number of years of experience is greater than 15.
 
+   <img width="1065" alt="Screenshot 2023-11-06 at 3 49 35 PM" src="https://github.com/ashley-potts/MIST-4610-Project1/assets/148247835/f3b36ada-865e-4348-93a3-fa1c9ca0696f">
 
+The manager would want to know this information to understand the individual experience of each coach and which teams have coaches with the most experience. This would allow the manager to assign head coaches to competition levels that are appropriate for their experience level. Coaches with more coaching experience should be assigned to higher competition levels, and the opposite could be said for coaches with less experience. 
+
+9. Query 9 
 
 ## Database Information : 
 The name of the database is : cs_g10p1
