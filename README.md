@@ -69,8 +69,7 @@ This query is important from a managerial perspective because the S.M.A.S.H. tou
 
 A manager would want to know this information because it would show which sponsors are the most generous in comparison to the rest. The sponsors that donate the most money would be put on the jerseys of the players. 
 
-
-
+6. 
 
 ## Database Information : 
 The name of the database is : cs_g10p1
