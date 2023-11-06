@@ -4,7 +4,7 @@ MIST 4610 Group Project 1
 Group 10
 
 ## Team Members :
-# 1. Ashley Potts @ashley-potts 
+1. Ashley Potts @ashley-potts 
 2. Emma Surbrook @emmasurbrook
 3. Hayden Soley @HaydenSoley
 4. Liam Kilner @liamkilner
