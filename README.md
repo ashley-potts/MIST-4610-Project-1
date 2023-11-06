@@ -37,6 +37,8 @@ Our model is based on a Soccer Club, called UGA United Soccer Club. Our “Teams
 
 
 ## Queries :
+<img width="896" alt="Screenshot 2023-11-06 at 3 22 09 PM" src="https://github.com/ashley-potts/MIST-4610-Project1/assets/148247835/5d3a70eb-f945-4bca-b58f-7404892b47af">
+
 
 ## Database Information : 
 The name of the database is : cs_g10p1
