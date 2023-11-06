@@ -63,7 +63,12 @@ This information would be important for a manager who is interested in the Lions
 
 This query is important from a managerial perspective because the S.M.A.S.H. tournament was the last one of the season. It is important to see which teams practiced the longest before playing in any tournaments to compare performance evaluations.
 
-5. 
+5. Query 5 lists lists out the name and the payment of those sponsors whose payment amount is greater than the average payment amount made by all the sponsors.
+
+<img width="1079" alt="Screenshot 2023-11-06 at 3 43 08 PM" src="https://github.com/ashley-potts/MIST-4610-Project1/assets/148247835/9bbbf769-0f60-4997-b746-4d6314847148">
+
+A manager would want to know this information because it would show which sponsors are the most generous in comparison to the rest. The sponsors that donate the most money would be put on the jerseys of the players. 
+
 
 
 
