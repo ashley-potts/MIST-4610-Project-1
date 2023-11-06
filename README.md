@@ -57,6 +57,8 @@ Our model is based on a Soccer Club, called UGA United Soccer Club. Our “Teams
 
 This information would be important for a manager who is interested in the Lions team and wants to know who each player is in order to do research on the stats of each player.
 
+4. 
+
 
 ## Database Information : 
 The name of the database is : cs_g10p1
