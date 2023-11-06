@@ -37,21 +37,6 @@ Our model is based on a Soccer Club, called UGA United Soccer Club. Our “Teams
 
 
 ## Queries :
-Include a natural language description of the query and a justification as to why each query is
-relevant from a managerial perspective (why would a manager be interested in the query
-results). Avoid having queries that are almost identical to one another. Add the written of the
-query as well as the response (e.g., copy and paste Execute to Text) of each query. You can also
-use the code markdown to highlight the SQL code and copy and paste the results into the file.
-To ensure the complexity of the queries some of the things that may be considered include
-multiple table join, traditional subquery, correlated subquery, GROUP BY, GROUP BY with
-HAVING, multi condition WHERE, Built-in functions (e.g., AVG) or a calculated field, REGEXP,
-NOT EXISTS, and more.
-You may combine some of the preceding list of features into a single query (still have to provide
-10 queries). Indicate in matrix format in your report which features are covered in a query
-## Database Information : 
-The name of the database on the MySQL server. Each table should be populated with enough
-data so that the queries return a sufficient result set. All queries should be bookmarked
-through the use of stored procedures (take a look at the example on ELC) according to this
-format: TP_Qx (where x is to be replaced by the query number)
 
+## Database Information : 
 The name of the database is : cs_g10p1
