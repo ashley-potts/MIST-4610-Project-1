@@ -51,6 +51,11 @@ Our model is based on a Soccer Club, called UGA United Soccer Club. Our “Teams
  
  The manager would want to know who the head coach is for every team that won the different tournament. This would be important that the manager was aware of which coaches were in charge of the overall winners of the four tournaments. 
 
+3. Query 3 lists the first and last name of each player on the Lions team. 
+
+<img width="1111" alt="Screenshot 2023-11-06 at 3 35 59 PM" src="https://github.com/ashley-potts/MIST-4610-Project1/assets/148247835/af6165df-e3fd-4820-bc44-f6705d58af40">
+
+This information would be important for a manager who is interested in the Lions team and wants to know who each player is in order to do research on the stats of each player.
 
 
 ## Database Information : 
