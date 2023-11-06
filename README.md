@@ -57,7 +57,14 @@ Our model is based on a Soccer Club, called UGA United Soccer Club. Our “Teams
 
 This information would be important for a manager who is interested in the Lions team and wants to know who each player is in order to do research on the stats of each player.
 
-4. 
+4. Query 4 lists the team names that played in the S.M.A.S.H tournaments and then orders those teams alphabetically.
+
+   <img width="1082" alt="Screenshot 2023-11-06 at 3 40 46 PM" src="https://github.com/ashley-potts/MIST-4610-Project1/assets/148247835/3a8016e4-9aff-4bb0-b393-e21d98abc799">
+
+This query is important from a managerial perspective because the S.M.A.S.H. tournament was the last one of the season. It is important to see which teams practiced the longest before playing in any tournaments to compare performance evaluations.
+
+5. 
+
 
 
 ## Database Information : 
