@@ -1,4 +1,4 @@
-<img width="901" alt="Screenshot 2023-11-05 at 8 27 15 PM" src="https://github.com/ashley-potts/MIST-4610-Project1/assets/148247835/d087c8e6-1bc8-4bd5-a6e2-8f132a314d34">
+
 MIST 4610 Group Project 1 
 ## Team Name : 
 Group 10
