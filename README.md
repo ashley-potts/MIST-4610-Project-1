@@ -69,7 +69,13 @@ This query is important from a managerial perspective because the S.M.A.S.H. tou
 
 A manager would want to know this information because it would show which sponsors are the most generous in comparison to the rest. The sponsors that donate the most money would be put on the jerseys of the players. 
 
-6. 
+6. Query 6 lists the first name and last name of the referees of each match played by the bulldogs. 
+
+<img width="1083" alt="Screenshot 2023-11-06 at 3 45 50 PM" src="https://github.com/ashley-potts/MIST-4610-Project1/assets/148247835/45d11f27-af88-49ab-8033-2c6c5490a8df">
+
+A manager would want to know this information to determine if the bulldogs are cheating so they want to know the referees in order to contact them.
+
+7. Query 7 
 
 ## Database Information : 
 The name of the database is : cs_g10p1
