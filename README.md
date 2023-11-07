@@ -1,4 +1,4 @@
-![Soccer Club Database Design](https://github.com/ashley-potts/MIST-4610-Project1/assets/148247835/86f6fbcc-6440-4d16-83ab-d302921c5e0d)
+
 MIST 4610 Group Project 1 
 ## Team Name : 
 Group 10
