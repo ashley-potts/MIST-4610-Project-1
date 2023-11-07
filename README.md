@@ -37,8 +37,7 @@ Our model is based on a Soccer Club, called UGA United Soccer Club. Our “Teams
 
 <img width="893" alt="Screenshot 2023-11-05 at 8 31 42 PM" src="https://github.com/ashley-potts/MIST-4610-Project1/assets/148247835/d7f9fda6-ef93-43f2-8d03-51f5abe96a82">
 
-<img width="900" alt="Screenshot 2023-11-05 at 8 32 07 PM" src="https://github.com/ashley-pott(https://github.com/ashley-potts/MIST-4610-Project1/assets/148247835/9427d142-0dbb-4a5c-95de-9bbbf01b5613)
-s/MIST-4610-Project1/assets/148247835/ac1db01a-b21c-4529-a892-f810c066b815">
+
 
 <img width="889" alt="Screenshot 2023-11-05 at 8 32 42 PM" src="https://github.com/ashley-potts/MIST-4610-Project1/assets/148247835/3ba2d3ba-e617-4987-8c66-1f7fdadc8c1b">
 
