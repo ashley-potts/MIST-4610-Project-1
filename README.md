@@ -112,4 +112,5 @@ A manager would be interested in this information to determine which tournament 
 
 ## Database Information : 
 The name of the database is : cs_g10p1
+
 Each query created is marked in the database using stored procedures. The stored procedures can be called using the following format : CALL Q1();
