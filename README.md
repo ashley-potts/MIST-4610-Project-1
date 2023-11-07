@@ -20,16 +20,27 @@ Our model is based on a Soccer Club, called UGA United Soccer Club. Our “Teams
 
 ## Data Dictionary :
 <img width="881" alt="Screenshot 2023-11-05 at 8 28 52 PM" src="https://github.com/ashley-potts/MIST-4610-Project1/assets/148247835/95f0933c-d140-4b66-847f-ae79ef2b1b12">
+
 <img width="899" alt="Screenshot 2023-11-05 at 8 29 26 PM" src="https://github.com/ashley-potts/MIST-4610-Project1/assets/148247835/7d4e0503-4d23-44e0-84ef-82166a59b8c1">
+
 <img width="891" alt="Screenshot 2023-11-05 at 8 29 49 PM" src="https://github.com/ashley-potts/MIST-4610-Project1/assets/148247835/8c3803fe-694f-4e44-9548-36558bdfdb4d">
+
 <img width="887" alt="Screenshot 2023-11-05 at 8 30 13 PM" src="https://github.com/ashley-potts/MIST-4610-Project1/assets/148247835/31ac9788-2983-49a8-94bd-71980eb70f31">
+
 <img width="898" alt="Screenshot 2023-11-05 at 8 30 33 PM" src="https://github.com/ashley-potts/MIST-4610-Project1/assets/148247835/c7c35aa6-5b5b-470c-b4af-769ae81741fe">
+
 <img width="882" alt="Screenshot 2023-11-05 at 8 30 58 PM" src="https://github.com/ashley-potts/MIST-4610-Project1/assets/148247835/9ab385f8-689d-4bb8-904c-62d7cba0accf">
+
 <img width="889" alt="Screenshot 2023-11-05 at 8 31 20 PM" src="https://github.com/ashley-potts/MIST-4610-Project1/assets/148247835/49c26d69-077f-42bc-bd26-c7853052f953">
+
 <img width="893" alt="Screenshot 2023-11-05 at 8 31 42 PM" src="https://github.com/ashley-potts/MIST-4610-Project1/assets/148247835/d7f9fda6-ef93-43f2-8d03-51f5abe96a82">
+
 <img width="900" alt="Screenshot 2023-11-05 at 8 32 07 PM" src="https://github.com/ashley-potts/MIST-4610-Project1/assets/148247835/ac1db01a-b21c-4529-a892-f810c066b815">
+
 <img width="889" alt="Screenshot 2023-11-05 at 8 32 42 PM" src="https://github.com/ashley-potts/MIST-4610-Project1/assets/148247835/3ba2d3ba-e617-4987-8c66-1f7fdadc8c1b">
+
 <img width="892" alt="Screenshot 2023-11-05 at 8 34 58 PM" src="https://github.com/ashley-potts/MIST-4610-Project1/assets/148247835/0f73cacb-5385-435d-a78d-39a43fec9eb7">
+
 <img width="902" alt="Screenshot 2023-11-05 at 8 35 48 PM" src="https://github.com/ashley-potts/MIST-4610-Project1/assets/148247835/b066392d-cd65-48ec-8dda-1a63705de79d">
 
 
