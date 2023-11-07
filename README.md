@@ -5,7 +5,7 @@ Group 10
 
 ## Team Members :
 1. Ashley Potts https://github.com/ashley-potts
-2. Emma Surbrook https://github.com/emmasurbrook/MIST-Project
+2. Emma Surbrook https://github.com/emmasurbrook
 3. Hayden Soley https://github.com/HaydenSoley
 4. Liam Kilner https://github.com/liamkilner
 5. Victoria Wiest https://github.com/victoriawiest
